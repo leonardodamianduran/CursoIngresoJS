@@ -4,6 +4,11 @@
 */
 function Mostar()
 {
+	//var nombre = prompt ("Ingrese su nombre", ""); 
 	
+		//alert ("hola : "+ nombre);
+
+			var nombre = document.getElementById('elNombre');
+			alert (nombre);
 }
 
