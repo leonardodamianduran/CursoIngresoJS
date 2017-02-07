@@ -4,20 +4,6 @@ mostrar el importe con un aumento del 10 %
 en el cuadro de texto "RESULTADO".*/
 function MostrarAumento()
 {
-/*var resto;
-	//var numero1;
-	//var numero2;
-	var total;
-		sueldo = (document.getElementById('sueldo').value);
-		resultado = (document.getElementById('resultado').value);
-				//parseInt(sueldo);
-				//parseInt(resto);
-			resto	= ((sueldo*10)/100);
-			total = (resto) + (sueldo);
-				alert("Tu aumento va ah ser de : " + resto);
-				alert("tu sueldo va ah ser de : "+ total);
-				//document.write( "Tu sueldo apartir de ahora sera de : "+ total );
-	*/
 	
 	var sueldo;
 	var resto;
