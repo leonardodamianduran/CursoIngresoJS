@@ -9,6 +9,6 @@ function Mostar()
 		//alert ("hola : "+ nombre);
 
 			var nombre = document.getElementById('elNombre');
-			alert (nombre);
+		//	alert (nombre);
 }
 
